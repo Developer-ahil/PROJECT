@@ -1,0 +1,109 @@
+body {
+    background:url(/HTML/unid.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*font-family: 'Courier New', Courier, monospace;*/
+}
+
+.cl-div{
+    background: rgba(0,0,0,0.4);
+    background-size: cover;
+    margin: -8px;
+  text-align: center;
+  
+  
+  
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    padding-left: 760px;
+    
+
+}
+
+li{
+    width: 170px;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+    
+}
+
+/* .div1{
+    margin-left: 1000px;
+    margin-top: 150px;
+    border-radius: 10px;
+    border-style: solid;
+    padding: 20px;
+    width: 330px;
+    height: 200px;
+    background: rgba(0,0,0,0.4);
+    border-color: black;
+
+}
+label{
+    color: seashell;
+} */
+
+ a{
+    text-decoration: none;
+    color:rgb(12, 11, 11);
+}
+
+.active1, ul li:hover{
+    
+    
+    border-radius: 5px;
+    background-color: rgb(246, 246, 250);
+
+    
+
+}
+
+/* .div1 a{
+    padding-left: 85px;
+    font-size: small;
+} */
+
+/* p{
+    color:rgb(226, 226, 235);
+} */
+
+h1{
+    color: rgb(60, 52, 88);
+    margin-left: 110px;
+    margin-top: -80px;
+    
+}
+
+h5{
+    margin-left: 180px;
+    margin-top: -20px;
+    color: rgb(45, 38, 65);
+    
+}
+
+
+img{
+    width: 120px;
+    height: 100px;
+}
+
+.div2{
+    
+    padding: 20px;
+    margin: 20px;
+}
+.div1{
+    border-style: solid;
+    padding: 40px;
+    background-color: rgb(231, 233, 233);
+    margin: 40px;
+    height: 280px;
+    width: 1300px;
+    padding-top: 90px;
+    border-radius: 20px;
+}

@@ -1,0 +1,60 @@
+body {
+    background:url(/HTML/unid.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*font-family: 'Courier New', Courier, monospace;*/
+}
+
+.cl-div{
+    background: rgba(0,0,0,0.4);
+    background-size: cover;
+    margin: -8px;
+  text-align: center;
+  
+  
+  
+}
+
+ul{
+    display: inline-flex;
+    list-style: none;
+    padding-left: 760px;
+    
+
+}
+
+li{
+    width: 170px;
+    margin: 5px;
+    padding: 5px;
+    font-size: large;
+    
+}
+
+a{
+    text-decoration: none;
+    color:rgb(12, 11, 11);
+}
+
+.active, ul li:hover{
+    
+    
+    border-radius: 5px;
+    background-color: rgb(246, 246, 250);
+
+    
+
+}
+
+.div1{
+    border-style: solid;
+    background: rgba(0,0,0,0.4);
+}
+table,h1{
+    color: seashell;
+}
+
+td{
+    padding: 10px;
+}

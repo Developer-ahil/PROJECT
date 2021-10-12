@@ -1,0 +1,44 @@
+body {
+    background:url(/HTML/unid.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    /*font-family: 'Courier New', Courier, monospace;*/
+}
+
+
+
+.div1{
+    border-style: solid;
+    background: rgba(0,0,0,0.4);
+    padding: 15px;
+    width: 350px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 600px;
+    margin-top: 300px;
+
+
+}
+
+h1{
+    color: seashell;
+}
+
+h2{
+    background-color: black;
+    color: white;
+}
+
+
+    
+
+a,a:hover{
+    border-radius: 2px;
+    background-color: white;
+    text-decoration: none;
+    width: 30px;
+    height: 20px;
+    
+
+}
